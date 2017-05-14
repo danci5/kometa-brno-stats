@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# [Link to gitlab repo](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats)
+<img src="https://raw.githubusercontent.com/danci5/kometa-brno-stats/master/HC_Kometa_Brno.png" height="300" width="300" >
 
-You can use the [editor on GitHub](https://github.com/danci5/kometa-brno-stats/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Project PB138 with stats of players and matches, along with filtering by various conditions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PB138 - Modern Markup Languages and Their Applications
 
-### Markdown
+<br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features
 
-```markdown
-Syntax highlighted code block
+* parses season data located at [HC Kometa Brno Team Stats](http://www.hc-kometa.cz/zapas.asp?sezona=2017)
+* parses player data located at [HC Kometa Brno Player Stats](http://www.hc-kometa.cz/statistiky.asp?sezona=2017)
+* structures data into XML
+* transforms data into HTML using XSLT transformation
 
-# Header 1
-## Header 2
-### Header 3
+## Documentation
+[Wiki on GitLab](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats/wikis)
 
-- Bulleted
-- List
+## Collaborators
+Adam Baňanka, Lukáš Dvořák, Daniel Homola, Tomáš Rózsa
 
-1. Numbered
-2. List
+## Jekyll 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danci5/kometa-brno-stats/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+These pages will run [Jekyll](https://jekyllrb.com/).
+Jekyll theme selected here is _jekyll-theme-cayman_.
