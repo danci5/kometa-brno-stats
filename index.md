@@ -12,10 +12,16 @@ PB138 - Modern Markup Languages and Their Applications
 * parses season data located at [HC Kometa Brno Team Stats](http://www.hc-kometa.cz/zapas.asp?sezona=2017)
 * parses player data located at [HC Kometa Brno Player Stats](http://www.hc-kometa.cz/statistiky.asp?sezona=2017)
 * structures data into XML
-* transforms data into HTML using XSLT transformation
+* transforms data into HTML using XSLT transformation, Javascript
+
+## Used packages excluding standard library
+
+* jsoup - Java library for working with real-world HTML
+* Saxon-HE - neeeded while transformating with XSLT2.0
 
 ## Documentation
 [Wiki on GitLab](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats/wikis)
+[Docbooks](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats/tree/master/reports)
 
 ## Collaborators
 Adam Baňanka, Lukáš Dvořák, Daniel Homola, Tomáš Rózsa
