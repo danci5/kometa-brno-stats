@@ -20,7 +20,7 @@ PB138 - Modern Markup Languages and Their Applications
 * Saxon-HE - neeeded while transformating with XSLT2.0
 
 ## Documentation
-[Wiki on GitLab](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats/wikis)
+[Wiki on GitLab](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats/wikis) <br/>
 [Docbooks](https://gitlab.fi.muni.cz/xrozsa1/PB138-kometa-brno-stats/tree/master/reports)
 
 ## Collaborators
